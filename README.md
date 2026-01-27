@@ -26,9 +26,9 @@ https://github.com/user-attachments/assets/1a848131-e98c-49d4-bc84-12a066311dc9
 
 ## Key Learnings from this Project 
 
-- Through this project, I learned to create a blog website using Wix. This helped me polsihed my front-end development skills such as embedding videos, designing aesthetic layout, including images with captions etc.
+- Through this project, I learned to create a blog website using Wix. This helped me polished my front-end development skills such as embedding videos, designing aesthetic layout, including images with captions etc.
 
-- I realised that some parts of the movie are made in such a way that they feel like reality. However, they have some basis in scientific research. Thus, ideas like building complex dream worlds or using machines to enter someone's mind are still pure fiction and not possible with today's technology.In a nutshell, this project improved my skills in research and gave me hands-on experience in creating a complete website.
+- I realised that some parts of the movie are made in such a way that they feel like reality. However, they have some basis in scientific research. Thus, ideas like building complex dream worlds or using machines to enter someone's mind are still pure fiction and not possible with today's technology. In a nutshell, this project improved my skills in research and gave me hands-on experience in creating a complete website.
 
 
 
